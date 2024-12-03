@@ -6,6 +6,9 @@ export default function Home() {
     <div>
       <Header />
       <Hero />
+      <div className="h-[1080px]">
+        hello
+      </div>
     </div>
   );
 }
