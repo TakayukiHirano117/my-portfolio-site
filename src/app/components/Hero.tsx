@@ -8,7 +8,7 @@ const Hero = () => {
                 <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />
                 <AvatarFallback>Hirano</AvatarFallback>
             </Avatar>
-            <h2 className="text-white text-4xl mt-2">Hi, I&apos;m Hirano</h2>
+            <h2 className="text-white text-5xl mt-2">Hi, I&apos;m Hirano</h2>
         </div>
     )
 }
