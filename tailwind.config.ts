@@ -59,6 +59,8 @@ export default {
       backgroundImage: {
         "hero-gradient":
           "linear-gradient(to bottom right, #b6dcef, #f2f5fd, #e94d71)",
+        "skills-gradient":
+          "linear-gradient(to bottom left, #e94d71, #f2f5fd, #b6dcef)",
       },
     },
   },
