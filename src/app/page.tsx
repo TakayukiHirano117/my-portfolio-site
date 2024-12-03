@@ -1,14 +1,13 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import Skills from "./components/Skills";
 
 export default function Home() {
   return (
     <div>
       <Header />
       <Hero />
-      <div className="h-[1080px]">
-        hello
-      </div>
+      <Skills />
     </div>
   );
 }
